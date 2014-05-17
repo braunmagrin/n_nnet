@@ -1,0 +1,5 @@
+New Version of Octave's nnet package
+===
+
+This is intended to improve the actual version of the nnet package (which is
+unmaintained) making it	compatible with the MATLAB's Neural Network Toolbox.
